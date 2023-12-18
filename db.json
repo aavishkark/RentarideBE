@@ -12,7 +12,8 @@
         "pricePerDay": "2200",
         "fastag": true,
         "type2": "Hatchback",
-        "city": "Mumbai"
+        "city": "Mumbai",
+        "avialable":"false"
       },
       {
         "id": 3,
@@ -26,7 +27,8 @@
         "pricePerDay": 1500,
         "fastag": true,
         "type2": "Sedan",
-        "city": "Bangalore"
+        "city": "Bangalore",
+        "avialable":"false"
       },
       {
         "id": 4,
@@ -40,7 +42,8 @@
         "pricePerDay": 1800,
         "fastag": false,
         "type2": "SUV",
-        "city": "Chennai"
+        "city": "Chennai",
+        "avialable":"false"
       },
       {
         "id": 5,
@@ -54,7 +57,8 @@
         "pricePerDay": 900,
         "fastag": true,
         "type2": "Hatchback",
-        "city": "Kolkata"
+        "city": "Kolkata",
+        "avialable":"false"
       },
       {
         "id": 6,
@@ -68,7 +72,8 @@
         "pricePerDay": 1400,
         "fastag": false,
         "type2": "SUV",
-        "city": "Hyderabad"
+        "city": "Hyderabad",
+        "avialable":"false"
       },
       {
         "id": 7,
@@ -82,7 +87,8 @@
         "pricePerDay": 1000,
         "fastag": true,
         "type2": "Hatchback",
-        "city": "Pune"
+        "city": "Pune",
+        "avialable":"false"
       },
       {
         "id": 8,
@@ -96,7 +102,8 @@
         "pricePerDay": 950,
         "fastag": false,
         "type2": "Hatchback",
-        "city": "Ahmedabad"
+        "city": "Ahmedabad",
+        "avialable":"false"
       },
       {
         "id": 9,
@@ -110,7 +117,8 @@
         "pricePerDay": 1300,
         "fastag": true,
         "type2": "SUV",
-        "city": "Jaipur"
+        "city": "Jaipur",
+        "avialable":"false"
       },
       {
         "id": 10,
@@ -124,7 +132,8 @@
         "pricePerDay": 1050,
         "fastag": false,
         "type2": "Hatchback",
-        "city": "Lucknow"
+        "city": "Lucknow",
+        "avialable":"false"
       },
       {
         "id": 11,
@@ -138,7 +147,8 @@
         "pricePerDay": 1700,
         "fastag": true,
         "type2": "SUV",
-        "city": "Mumbai"
+        "city": "Mumbai",
+        "avialable":"false"
       },
       {
         "id": 12,
@@ -152,7 +162,8 @@
         "pricePerDay": 1400,
         "fastag": false,
         "type2": "SUV",
-        "city": "Delhi"
+        "city": "Delhi",
+        "avialable":"false"
       },
       {
         "id": 13,
@@ -166,7 +177,8 @@
         "pricePerDay": 1450,
         "fastag": true,
         "type2": "Sedan",
-        "city": "Bangalore"
+        "city": "Bangalore",
+        "avialable":"false"
       },
       {
         "id": 14,
@@ -180,7 +192,8 @@
         "pricePerDay": 900,
         "fastag": false,
         "type2": "Hatchback",
-        "city": "Chennai"
+        "city": "Chennai",
+        "avialable":"false"
       },
       {
         "id": 15,
@@ -194,7 +207,8 @@
         "pricePerDay": 950,
         "fastag": true,
         "type2": "Hatchback",
-        "city": "Kolkata"
+        "city": "Kolkata",
+        "avialable":"false"
       },
       {
         "id": 16,
@@ -208,7 +222,8 @@
         "pricePerDay": 1300,
         "fastag": false,
         "type2": "SUV",
-        "city": "Hyderabad"
+        "city": "Hyderabad",
+        "avialable":"false"
       },
       {
         "id": 17,
@@ -222,7 +237,8 @@
         "pricePerDay": 1000,
         "fastag": true,
         "type2": "Hatchback",
-        "city": "Pune"
+        "city": "Pune",
+        "avialable":"false"
       },
       {
         "id": 18,
@@ -236,7 +252,8 @@
         "pricePerDay": 900,
         "fastag": false,
         "type2": "Hatchback",
-        "city": "Ahmedabad"
+        "city": "Ahmedabad",
+        "avialable":"false"
       },
       {
         "id": 19,
@@ -250,7 +267,8 @@
         "pricePerDay": 950,
         "fastag": true,
         "type2": "Hatchback",
-        "city": "Jaipur"
+        "city": "Jaipur",
+        "avialable":"false"
       },
       {
         "id": 20,
@@ -264,7 +282,8 @@
         "pricePerDay": 1100,
         "fastag": false,
         "type2": "Sedan",
-        "city": "Lucknow"
+        "city": "Lucknow",
+        "avialable":"false"
       },
       {
         "id": 21,
@@ -278,7 +297,8 @@
         "pricePerDay": 1400,
         "fastag": false,
         "type2": "Sedan",
-        "city": "Mumbai"
+        "city": "Mumbai",
+        "avialable":"false"
       },
       {
         "id": 22,
@@ -292,7 +312,8 @@
         "pricePerDay": 1200,
         "fastag": true,
         "type2": "Hatchback",
-        "city": "Delhi"
+        "city": "Delhi",
+        "avialable":"false"
       },
       {
         "id": 23,
@@ -306,7 +327,8 @@
         "pricePerDay": 1700,
         "fastag": true,
         "type2": "SUV",
-        "city": "Bangalore"
+        "city": "Bangalore",
+        "avialable":"false"
       },
       {
         "id": 24,
@@ -320,7 +342,8 @@
         "pricePerDay": 1300,
         "fastag": false,
         "type2": "Sedan",
-        "city": "Chennai"
+        "city": "Chennai",
+        "avialable":"false"
       },
       {
         "id": 25,
@@ -334,7 +357,8 @@
         "pricePerDay": 1500,
         "fastag": true,
         "type2": "SUV",
-        "city": "Kolkata"
+        "city": "Kolkata",
+        "avialable":"false"
       },
       {
         "id": 26,
@@ -348,7 +372,8 @@
         "pricePerDay": 1100,
         "fastag": false,
         "type2": "Hatchback",
-        "city": "Hyderabad"
+        "city": "Hyderabad",
+        "avialable":"false"
       },
       {
         "id": 27,
@@ -362,7 +387,8 @@
         "pricePerDay": 950,
         "fastag": true,
         "type2": "Hatchback",
-        "city": "Pune"
+        "city": "Pune",
+        "avialable":"false"
       },
       {
         "id": 28,
@@ -376,7 +402,8 @@
         "pricePerDay": 1350,
         "fastag": false,
         "type2": "Sedan",
-        "city": "Ahmedabad"
+        "city": "Ahmedabad",
+        "avialable":"false"
       },
       {
         "id": 29,
@@ -390,7 +417,8 @@
         "pricePerDay": 1600,
         "fastag": true,
         "type2": "SUV",
-        "city": "Jaipur"
+        "city": "Jaipur",
+        "avialable":"false"
       },
       {
         "id": 30,
@@ -404,7 +432,8 @@
         "pricePerDay": 1400,
         "fastag": false,
         "type2": "SUV",
-        "city": "Lucknow"
+        "city": "Lucknow",
+        "avialable":"false"
       },
       {
         "id": 31,
@@ -418,7 +447,8 @@
         "pricePerDay": 1250,
         "fastag": true,
         "type2": "Sedan",
-        "city": "Mumbai"
+        "city": "Mumbai",
+        "avialable":"false"
       },
       {
         "id": 32,
@@ -432,7 +462,8 @@
         "pricePerDay": 1350,
         "fastag": true,
         "type2": "Sedan",
-        "city": "Delhi"
+        "city": "Delhi",
+        "avialable":"false"
       },
       {
         "id": 33,
@@ -446,7 +477,8 @@
         "pricePerDay": 1750,
         "fastag": false,
         "type2": "SUV",
-        "city": "Bangalore"
+        "city": "Bangalore",
+        "avialable":"false"
       },
       {
         "id": 34,
@@ -460,7 +492,8 @@
         "pricePerDay": 1300,
         "fastag": true,
         "type2": "Hatchback",
-        "city": "Chennai"
+        "city": "Chennai",
+        "avialable":"false"
       },
       {
         "id": 35,
@@ -474,7 +507,8 @@
         "pricePerDay": 1150,
         "fastag": false,
         "type2": "SUV",
-        "city": "Kolkata"
+        "city": "Kolkata",
+        "avialable":"false"
       },
       {
         "id": 36,
@@ -488,7 +522,8 @@
         "pricePerDay": 1350,
         "fastag": true,
         "type2": "SUV",
-        "city": "Hyderabad"
+        "city": "Hyderabad",
+        "avialable":"false"
       },
       {
         "id": 37,
@@ -502,7 +537,8 @@
         "pricePerDay": 950,
         "fastag": false,
         "type2": "Hatchback",
-        "city": "Pune"
+        "city": "Pune",
+        "avialable":"false"
       },
       {
         "id": 38,
@@ -516,7 +552,8 @@
         "pricePerDay": 1350,
         "fastag": true,
         "type2": "SUV",
-        "city": "Ahmedabad"
+        "city": "Ahmedabad",
+        "avialable":"false"
       },
       {
         "id": 39,
@@ -530,7 +567,8 @@
         "pricePerDay": 1600,
         "fastag": false,
         "type2": "SUV",
-        "city": "Jaipur"
+        "city": "Jaipur",
+        "avialable":"false"
       },
       {
         "id": 40,
@@ -544,7 +582,8 @@
         "pricePerDay": 1400,
         "fastag": true,
         "type2": "SUV",
-        "city": "Lucknow"
+        "city": "Lucknow",
+        "avialable":"false"
       },
       {
         "id": 41,
@@ -558,7 +597,8 @@
         "pricePerDay": 1250,
         "fastag": false,
         "type2": "SUV",
-        "city": "Chennai"
+        "city": "Chennai",
+        "avialable":"false"
       },
       {
         "id": 42,
@@ -572,7 +612,8 @@
         "pricePerDay": 1350,
         "fastag": true,
         "type2": "SUV",
-        "city": "Kolkata"
+        "city": "Kolkata",
+        "avialable":"false"
       },
       {
         "id": 43,
@@ -586,7 +627,8 @@
         "pricePerDay": 1150,
         "fastag": false,
         "type2": "Hatchback",
-        "city": "Pune"
+        "city": "Pune",
+        "avialable":"false"
       },
       {
         "id": 44,
@@ -600,7 +642,8 @@
         "pricePerDay": 1250,
         "fastag": true,
         "type2": "Hatchback",
-        "city": "Chennai"
+        "city": "Chennai",
+        "avialable":"false"
       },
       {
         "id": 45,
@@ -614,7 +657,8 @@
         "pricePerDay": 1350,
         "fastag": true,
         "type2": "SUV",
-        "city": "Hyderabad"
+        "city": "Hyderabad",
+        "avialable":"false"
       },
       {
         "id": 46,
@@ -628,7 +672,8 @@
         "pricePerDay": 950,
         "fastag": false,
         "type2": "Hatchback",
-        "city": "Mumbai"
+        "city": "Mumbai",
+        "avialable":"false"
       },
       {
         "id": 47,
@@ -642,7 +687,8 @@
         "pricePerDay": 1250,
         "fastag": true,
         "type2": "Sedan",
-        "city": "Delhi"
+        "city": "Delhi",
+        "avialable":"false"
       },
       {
         "id": 48,
@@ -656,7 +702,8 @@
         "pricePerDay": 1150,
         "fastag": true,
         "type2": "Hatchback",
-        "city": "Pune"
+        "city": "Pune",
+        "avialable":"false"
       },
       {
         "id": 49,
@@ -670,7 +717,8 @@
         "pricePerDay": 1350,
         "fastag": false,
         "type2": "Hatchback",
-        "city": "Chennai"
+        "city": "Chennai",
+        "avialable":"false"
       },
       {
         "id": 50,
@@ -684,7 +732,8 @@
         "pricePerDay": 1450,
         "fastag": true,
         "type2": "Sedan",
-        "city": "Mumbai"
+        "city": "Mumbai",
+        "avialable":"false"
       },
       {
         "id": 51,
@@ -698,7 +747,8 @@
         "pricePerDay": 1350,
         "fastag": false,
         "type2": "SUV",
-        "city": "Kolkata"
+        "city": "Kolkata",
+        "avialable":"false"
       },
       {
         "id": 52,
@@ -712,7 +762,8 @@
         "pricePerDay": 1400,
         "fastag": true,
         "type2": "Sedan",
-        "city": "Hyderabad"
+        "city": "Hyderabad",
+        "avialable":"false"
       },
       {
         "id": 53,
@@ -726,7 +777,8 @@
         "pricePerDay": 1800,
         "fastag": true,
         "type2": "SUV",
-        "city": "Delhi"
+        "city": "Delhi",
+        "avialable":"false"
       },
       {
         "id": 54,
@@ -740,7 +792,8 @@
         "pricePerDay": 1400,
         "fastag": true,
         "type2": "SUV",
-        "city": "Pune"
+        "city": "Pune",
+        "avialable":"false"
       },
       {
         "id": 55,
@@ -754,7 +807,8 @@
         "pricePerDay": 1450,
         "fastag": false,
         "type2": "SUV",
-        "city": "Chennai"
+        "city": "Chennai",
+        "avialable":"false"
       },
       {
         "id": 56,
@@ -768,7 +822,8 @@
         "pricePerDay": 1350,
         "fastag": true,
         "type2": "Sedan",
-        "city": "Mumbai"
+        "city": "Mumbai",
+        "avialable":"false"
       },
       {
         "id": 57,
@@ -782,7 +837,8 @@
         "pricePerDay": 1200,
         "fastag": true,
         "type2": "Hatchback",
-        "city": "Kolkata"
+        "city": "Kolkata",
+        "avialable":"false"
       },
       {
         "id": 58,
@@ -796,7 +852,8 @@
         "pricePerDay": 2500,
         "fastag": true,
         "type2": "SUV",
-        "city": "Hyderabad"
+        "city": "Hyderabad",
+        "avialable":"false"
       },
       {
         "id": 59,
@@ -810,7 +867,8 @@
         "pricePerDay": 1300,
         "fastag": false,
         "type2": "Hatchback",
-        "city": "Delhi"
+        "city": "Delhi",
+        "avialable":"false"
       },
       {
         "id": 60,
@@ -824,7 +882,8 @@
         "pricePerDay": 1100,
         "fastag": true,
         "type2": "SUV",
-        "city": "Pune"
+        "city": "Pune",
+        "avialable":"false"
       }
     ],
     "reservations": [],
