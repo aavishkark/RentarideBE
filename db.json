@@ -831,11 +831,13 @@
     "transactions": [],
     "users": [
       {
-        "username": "user1@gmail.com",
+        "email": "user1@gmail.com",
         "password": "abcdefgh",
-        "name": "user1",
+        "username": "user1",
+        "pastRides":[],
         "city": "Pune",
         "activeRides": [],
+        "cart":[],
         "id": 1
       }
     ],
